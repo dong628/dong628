@@ -9,8 +9,9 @@
 - :desktop_computer: Homebrew Server: Intel i3-9100F / Kubuntu 22.04.1 LTS x86_64
 - :pencil2: Vim / Typora / Chrome / KDE / Konsole / Dolphin / Fish
 - :video_game: Minecraft (ID: JingleiDong628) / Kerbal Space Program / Phigros (rks: 14.24)
-- :keyboard: Linux & Open Source Software
+- :keyboard: QWERTY / Shuangpin / Switch Esc <-> CapsLock
 - :link: Blog: [https://blog.tflsdjl.top](https://blog.tflsdjl.top)
+- :earth_asia: Luogu: [201810tflsdjl](https://www.luogu.com.cn/user/161876) / Zhihu: [TFLS-DJL](https://www.zhihu.com/people/tfls-djl)
 - :key: GPG key: [`E148F1BDE629F926`](https://github.com/dong628.gpg)
 
 <!--
