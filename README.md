@@ -5,8 +5,8 @@
 - :gear: C++ / Python
 - :open_book: OIer / Taiyuan Foreign Language School / Grade 2021
 - :penguin: Arch Linux User / Kubuntu User
-- :computer: Laptop: Dell-G3 3590 with Intel AX100 / Arch Linux
-- :desktop_computer: Homebrew Server: Intel i3-9100F / Kubuntu 22.04.1 LTS x86_64
+- :computer: Laptop: Dell-G3 3590 with Intel AX200 / Arch Linux
+- :desktop_computer: Home server: Intel i3-9100F / Kubuntu 22.04.1 LTS x86_64
 - :pencil2: Vim / Typora / Chrome / KDE / Konsole / Dolphin / Fish
 - :video_game: Minecraft (ID: JingleiDong628) / Kerbal Space Program / Phigros (rks: 14.24)
 - :keyboard: QWERTY / Shuangpin / Switch Esc <-> CapsLock
