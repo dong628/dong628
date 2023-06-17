@@ -6,9 +6,9 @@
 - :open_book: OIer / Taiyuan Foreign Language School / Grade 2021
 - :penguin: Arch Linux User / Ubuntu Server User
 - :computer: Laptop: ~~Dell-G3 3590 with Intel AX200 / Arch Linux~~ Lenovo ThinkBook 16+ / Windows10 / Arch Linux
-- :desktop_computer: Home server: Intel i3-9100F / AMD RX5600 XT / Ubuntu Server 22.04 LTS x86_64 / Proxmox VE
+- :desktop_computer: Home server: Intel i5-12600K / AMD RX5600 XT / Ubuntu Server 22.04 LTS x86_64 / Proxmox VE
 - :pencil2: Vim / Typora / Chrome / KDE / Konsole / Dolphin / Fish / Windows Terminal
-- :video_game: Minecraft (ID: JingleiDong628) / Kerbal Space Program / Phigros (rks: 14.21)
+- :video_game: Minecraft (ID: JingleiDong628) / Kerbal Space Program / Phigros (rks: 14.28)
 - :keyboard: QWERTY / Shuangpin / Switch Esc <-> CapsLock
 - :link: Blog: [https://blog.tflsdjl.top](https://blog.tflsdjl.top)
 - :earth_asia: Luogu: [201810tflsdjl](https://www.luogu.com.cn/user/161876) / Zhihu: [TFLS-DJL](https://www.zhihu.com/people/tfls-djl)
